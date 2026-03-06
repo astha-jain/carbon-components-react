@@ -1654,9 +1654,9 @@ caniuse-lite@^1.0.30000697, caniuse-lite@^1.0.30000704:
   version "1.0.30000709"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000709.tgz#e027c7a0dfd5ada58f931a1080fc71965375559b"
 
-carbon-components@^7.13.0:
-  version "7.17.1"
-  resolved "https://registry.yarnpkg.com/carbon-components/-/carbon-components-7.17.1.tgz#34e5c6446e63c57806e92f5f417ee77f8d252976"
+carbon-components@^7.20.0:
+  version "7.26.10"
+  resolved "https://registry.yarnpkg.com/carbon-components/-/carbon-components-7.26.10.tgz#b65c226a08760a8d7db003a174f9bb69fba349a0"
   dependencies:
     carbon-icons "^6.0.4"
     flatpickr "2.6.3"
@@ -3656,8 +3656,8 @@ ignore@^3.2.0:
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-3.3.3.tgz#432352e57accd87ab3110e82d3fea0e47812156d"
 
 immutable@^3.8.1:
-  version "3.8.1"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.1.tgz#200807f11ab0f72710ea485542de088075f68cd2"
+  version "3.8.3"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.3.tgz#0a8d2494a94d4b2d4f0e99986e74dd25d1e9a859"
 
 imurmurhash@^0.1.4:
   version "0.1.4"
